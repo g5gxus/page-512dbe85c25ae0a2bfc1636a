@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ebeb18987d34815f9177bffc",
+  "owner": "g5gxus",
+  "repo": "page-512dbe85c25ae0a2bfc1636a",
+  "title": "猪的SSR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "512dbe85c25ae0a2bfc1636a",
+      "a": "猪的SSR",
+      "b": "2027最新官网",
+      "entity": "猪的SSR",
+      "brand": "猪的SSR",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1036d1bbddb682db20bf06ba86f543612987b168d5f14dc6e457abbc54b2decf",
+      "content": {
+        "primary_entity": "猪的SSR",
+        "keyword1": "猪的SSR",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择客户端，在手机、电脑和路由器上分别完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选对套餐与客户端，顺畅连接一步到位。",
+          "AI_CLOSING_TITLE": "开始你的加速体验",
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户提供多档订阅方案，覆盖基础浏览、流媒体解锁与游戏专线优化。基础版适合轻度使用，旗舰版兼顾速度与设备数，团队版提供高带宽节点与定制路由。可按月或按年付费，年付更划算，客户端配置简单，选择套餐后按文档导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三方面对比，找到适合日常使用的订阅。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备；旗舰版每月300GB、5台设备；团队版每月1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含IPLC专线游戏加速优化和全节点原生流媒体解锁，适合对延迟敏感的场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付¥150，旗舰版年付¥350，团队版年付¥850。",
+          "AI_FEATURE_TITLE_1": "流量与设备数",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅配置的流程。",
+          "AI_GUIDE_TITLE": "配置指南",
+          "AI_HERO_INTRO": "猪的SSR提供多档海外加速订阅，侧重流媒体解锁与游戏专线优化。基础版、旗舰版、团队版覆盖不同流量与设备需求，支持按年付节省费用，在常用设备上导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付更省，支持多设备在线",
+          "AI_PLANS_INTRO": "按月或按年订阅，根据流量和在线设备数选择基础版、旗舰版或团队版。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、在线设备数量和线路需求，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端是否满足套餐的适配要求，如路由器需支持订阅导入。",
+          "AI_STEP_TEXT_3": "按所选客户端的配置文档导入订阅地址，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "猪的SSR加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "猪的SSR 套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "可在当前订阅周期结束后选择升级或降级套餐，具体变更方式请参考客户端内说明或联系支持渠道。",
+          "AI_FAQ_QUESTION_2": "订阅链接可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，超出设备数量的连接可能会被限制。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付分别为 ¥150、¥350、¥850，相比月付节省明显，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "客户端导入订阅遇到问题怎么办？",
+          "AI_FAQ_ANSWER_4": "先核对订阅链接是否完整、设备系统是否为客户端支持的版本，再参考客户端文档中的导入步骤重试。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线为游戏与实时应用提供更低延迟的加速路径，适合对连接稳定性要求较高的用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--chqymo28n.com",
+    "host": "xn--chqymo28n.com"
+  },
+  "file_hashes": {
+    "index.html": "9320fc0e592e84cf4fba8a7bcc1e3642f8e523d3d697116edb47ff6ce8fb9b9b",
+    "sitemap.xml": "49e5ebd3fc9b84e60aeeefd429c7662d0cd8e3b9dec4e09b7c3bbab0940894f1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bf5a0c61da2e2f5f9da01a7cbf110eea1da36a451460becdfc64be67d7cb1e71",
+    "robots.txt": "51c3a56057ed7f28f4987eab10b2ecc163774cfe455a6d925e6205ff074115d7",
+    "29f8f6ae4bad941e9651704c1c3563a3.txt": "f109e22d136d3c5874dfb4fd980e9ca5687d1802c121c0a763e6c432c85e777e"
+  },
+  "revision": "4ee71d70b60d5e2cb6c35b6f63e9e35ca2ed2994363db3252ff5ad195e1b997a"
+}
